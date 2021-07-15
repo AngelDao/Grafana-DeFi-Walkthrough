@@ -1,5 +1,7 @@
 # Grafana-DeFi-Walkthrough
 
+Here are the [videos](https://www.youtube.com/watch?v=zGLEZ1t6CuI) that go along with the readme.
+
 # Installation
 
 ## Technologies:
